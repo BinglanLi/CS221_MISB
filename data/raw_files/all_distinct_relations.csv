@@ -1,20 +1,3 @@
-labels(n),type(r),labels(m)
-["TranscriptionFactor"],TRANSCRIPTIONFACTORINTERACTSWITHGENE,["Gene"]
-["BodyPart"],BODYPARTOVEREXPRESSESGENE,["Gene"]
-["BodyPart"],BODYPARTUNDEREXPRESSESGENE,["Gene"]
-["Drug"],CHEMICALBINDSGENE,["Gene"]
-["Drug"],CHEMICALINCREASESEXPRESSION,["Gene"]
-["Drug"],CHEMICALDECREASESEXPRESSION,["Gene"]
-["Gene"],GENEREGULATESGENE,["Gene"]
-["Gene"],GENEINTERACTSWITHGENE,["Gene"]
-["Gene"],GENECOVARIESWITHGENE,["Gene"]
-["Gene"],GENEPARTICIPATESINBIOLOGICALPROCESS,["BiologicalProcess"]
-["Gene"],GENEINPATHWAY,["Pathway"]
-["Gene"],GENEHASMOLECULARFUNCTION,["MolecularFunction"]
-["Gene"],GENEASSOCIATEDWITHCELLULARCOMPONENT,["CellularComponent"]
-["Disease"],DISEASELOCALIZESTOANATOMY,["BodyPart"]
-["Drug"],DRUGINCLASS,["DrugClass"]
-["Gene"],GENEASSOCIATESWITHDISEASE,["Disease"]
-["Drug"],DRUGTREATSDISEASE,["Disease"]
-["Drug"],DRUGCAUSESEFFECT,["Disease"]
-["Symptom"],SYMPTOMMANIFESTATIONOFDISEASE,["Disease"]
+version https://git-lfs.github.com/spec/v1
+oid sha256:180749a36a6c8e217bff361b4c32a3a89ab0b4a3deb5165b27337753ef3684c3
+size 926
