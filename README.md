@@ -1,14 +1,12 @@
 <h1 align = "center">
   Drug Repurposing using GNN <br>
-  <a href="https://github.com/BinglanLi/CS221_MISB/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/BinglanLi/CS221_MISB?logo=git&style=plastic"></a>
-  <a href="https://github.com/BinglanLi/CS221_MISB/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/BinglanLi/CS221_MISB?style=plastic&logo=github"></a>
-  <a href="https://github.com/BinglanLi/CS221_MISB/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/BinglanLi/CS221_MISB?style=plastic&logo=github"></a>
   <a href="https://makeapullrequest.com/"><img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=plastic&logo=open-source-initiative"></a>
 </h1>
 
 <div align = "justify">
 
 **Objective:** This repository contains the codebase and documentation for a project that applies Graph Neural Networks (GNNs)—specifically Graph Attention Networks (GATs) to predict drug-drug interactions (DDIs) using the OGB-DDI dataset and extend the approach to Alzheimer's Disease drug repurposing using the AlzKB biomedical knowledge graph. </br>
+
 To understand the repo check [**HOWTO.md**](./HOWTO.md) file.
 
 ## 📌 Project Overview
@@ -85,3 +83,6 @@ jupyter notebook
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
 
+## Reference
+
+Our work and code is inspired from this [CS224W project](https://medium.com/stanford-cs224w/predicting-drug-interactions-with-graph-neural-networks-f63aab06b0b)
